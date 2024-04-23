@@ -25,7 +25,7 @@ DELETE http://localhost:9000/books/{id}
 POST http://localhost:9000/books
 Content-Type: application/json
 
-.{
+{
   "title": "EXAMPLE BOOK",
   "author": "GALL ANONIM"
 }
@@ -36,10 +36,11 @@ Content-Type: application/json
   3.3. SELECT POST METHOD 
   3.4. NEXT TO POST ENTER: "localhost:9000/books"
   3.5. GO TO "body" (UNDER POST AND LINK) SELECT "raw" AND ENTER:
-  .{
+  {
       "title": "title",
       "author": "author"
   }
+  
   3.5. IF U GOT STATUS 200 OK IT MEANS ELEMENT HAS BEEN ADDED TO COLLECTION
 
   EXAMPLE FOR INTELLIJI 
@@ -48,10 +49,11 @@ Content-Type: application/json
   POST http://localhost:9000/books
   Content-Type: application/json
   
-  .{
+  {
     "title": "EXAMPLE BOOK",
     "author": "GALL ANONIM"
   }
+  
   3.3. IF U GOT STATUS 200 OK IT MEANS ELEMENT HAS BEEN ADDED TO COLLECTION
   EXAMPLE RESPONSE: 
   http://localhost:9000/books
@@ -63,11 +65,12 @@ Content-Type: application/json
   Keep-Alive: timeout=60
   Connection: keep-alive
   
-  .{
+  {
     "id": 7,
     "author": "GALL ANONIM",
     "title": "EXAMPLE BOOK"
   }
+  
   Response file saved.
   > 2024-04-23T170630.200.jsonwse
   
