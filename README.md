@@ -76,3 +76,22 @@ Content-Type: application/json
   
   Response code: 200; Time: 4ms (4 ms); Content length: 54 bytes (54 B)
 
+# Gallery
+
+### Get books
+![REST-JPA-Spring_1](https://github.com/KaczyStary/spring-jdbc-template/assets/98557409/e25e6091-6a97-4e2c-983a-0ed61f7d65e1)
+
+### Post car
+![REST-JPA-Spring_2](https://github.com/KaczyStary/spring-jdbc-template/assets/98557409/6c68a498-b053-4ed4-ac20-5440c39ab50b)
+
+### Get car by brand
+![REST-JPA-Spring_3](https://github.com/KaczyStary/spring-jdbc-template/assets/98557409/a5a026d7-07fc-4e8a-a612-3517e017b457)
+
+### Get car by production year
+![REST-JPA-Spring_4](https://github.com/KaczyStary/spring-jdbc-template/assets/98557409/54856987-2835-4d10-995e-85ff21495e86)
+
+### Get ebooks 
+![REST-JPA-Spring_5](https://github.com/KaczyStary/spring-jdbc-template/assets/98557409/eb7f8ed4-eab4-4caa-8288-e3b7803d1c53)
+
+### Get ebook by tag
+![REST-JPA-Spring_6](https://github.com/KaczyStary/spring-jdbc-template/assets/98557409/3c053c2c-e155-46ca-a49c-9c5dceaea65c)
